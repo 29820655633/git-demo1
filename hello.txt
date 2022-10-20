@@ -3,3 +3,4 @@ hello world 2 对第二版本的第一次修改 在新分支 hot-fix上修改了
 见鬼去吧----来自hot-fix
   把master分支推送到git远程库失败
        git push git-demo1 master
+我在github的仓库里添加了这句话---来自github
